@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HAELauncher</string>
+    <string name="title_activity_launcher">Select app to launch</string>
+    <string name="title_activity_app_launcher">HAE Test Program</string>
+</resources>
